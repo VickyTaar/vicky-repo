@@ -29,7 +29,7 @@ const siteProps = {
   email: "victorndiritu9@gmail.com",
   gitHub: "VickyTaar",
   instagram: "VickyTaar",
-  linkedIn: "Victor Ndiritu",
+  linkedIn: "VictorNdiritu",
   medium: "",
   twitter: "VickyTaar",
   youTube: "Code",
